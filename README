@@ -1,0 +1,1 @@
+NOTE: I had to modify bootable/recovery/default_recovery_ui.c and exclude the same lines in our recovery/recovery_ui.c for correct compilation.
